@@ -11,6 +11,19 @@
   background-color: #1f2228;
   color: #ffffff; }
 
+.section--yellow {
+  background-color: #dceb35;
+  color: #ffffff; }
+
+.section--red {
+  background-color: #f72336;
+  color: #ffffff; }
+
+.section--lblue {
+  background-color: #0aa9bf;
+  color: #ffffff; }
+
+
 html, body {
   height: 100%; }
 
@@ -87,5 +100,3 @@ body {
 
 .small {
   font-size: em !important; }
-
-
